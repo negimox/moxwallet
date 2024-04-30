@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .paragraph-text {
+    @apply text-[#D8DEE9] text-[#D8DEE9] py-2;
+  }
+}
